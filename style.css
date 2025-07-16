@@ -54,6 +54,7 @@ header h1{
     padding: 15px;
     position: relative;
     min-height: 400px;
+    
    
 }
 .product img{
@@ -101,4 +102,7 @@ footer{
 }
 .end2 p:hover{
     color: black
+}
+header nav :hover{
+    color:rgb(44, 209, 214);
 }
